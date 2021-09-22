@@ -1,1 +1,2 @@
+promjena 
 Nova mapa za git direktorij
